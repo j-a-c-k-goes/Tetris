@@ -1,0 +1,9 @@
+---
+title: Design Sketch
+description: Scratch pad and thought organization for approaching project build.
+author: Chanice St. Louis <chanicestlouis2020@@gmail.com>
+link: https://docs.google.com/document/d/10gmuFi21bsCNkOna9feFElebJjnAThx3Pxd4zztUlpQ/edit?invite=CMfmm54M&exids=71471476,71471470&tab=t.0
+---
+
+Tetris Init
+
