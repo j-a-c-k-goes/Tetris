@@ -2,7 +2,7 @@
 name: To-Do
 about: General to-do. Precursor to a Pull Request.
 title: ''
-labels: ''
+labels: to-do
 assignees: ''
 
 ---
